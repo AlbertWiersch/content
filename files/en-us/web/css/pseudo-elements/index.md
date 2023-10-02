@@ -67,6 +67,10 @@ G
 
 - {{CSSxRef("::grammar-error")}} {{Experimental_Inline}}
 
+H
+
+- {{CSSxRef("::highlight", "::highlight()")}} {{Experimental_Inline}}
+
 M
 
 - {{CSSxRef("::marker")}}
